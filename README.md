@@ -17,7 +17,7 @@ O template também já vem com alguns arquivos de configuração pré-configurad
 O template também traz o usuário padrão modificado, com o login sendo feito com o `e-mail` e não com o `username`. Inclusões de campos, como `telefone`, `data de nascimento` e `foto de perfil`, podem ser feitas facilmente.
 
 
-## Instalação e Configuração
+## Instalação e Configuraçãof
 
 1. Certifique-se de ter o [Python](https://www.python.org/) instalado em seu sistema.
 
